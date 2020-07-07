@@ -1,10 +1,12 @@
 ---
 name: Modification Request
-about: For requests to modify a registered REGISTRY_VALUE_NAME
+about: For requests to modify a registered HTTP Preference
 title: ''
 labels: modification
 assignees: ''
 
 ---
 
-REGISTRY_BULLETS
+* Preference:
+* Requested Change(s):
+* Your relationship to the original registrant:
