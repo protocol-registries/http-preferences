@@ -1,7 +1,7 @@
 {
-    "group": "REGISTRY_NAME Registry",
+    "group": "HTTP Preferences Registry",
     "group_info": {
-        "name": "REGISTRY_NAME Registry"
+        "name": "HTTP Preferences Registry"
     },
     "repo_type": "registry",
     "issue_summary_to": [""]
